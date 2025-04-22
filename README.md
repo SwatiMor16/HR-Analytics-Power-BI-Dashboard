@@ -47,7 +47,4 @@ key HR metrics, enabling data-driven decision-making for workforce planning and 
 
 ---
 
-## File Structure
-├── HR_Analytics_Dashboard.pbix
-├── HR_Data.xlsx
-└── README.md
+
